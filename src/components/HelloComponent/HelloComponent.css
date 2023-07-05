@@ -1,0 +1,11 @@
+.c-hello-component{
+    border: 1px solid black;
+}
+
+.c-hello-component-title{
+    color: green;
+}
+
+.c-hello-component-body{
+    color: red;
+}
